@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(62, 105, 102);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    cursor:crosshair;
+}
+#pic-me{
+   
+    border-radius: 15px 50px; 
+    border: 10px solid gold;
+    height: 35%;
+    width: 35%;
+}
+
+.header {
+    text-align: center;
+}
